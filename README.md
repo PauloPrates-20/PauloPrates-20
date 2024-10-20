@@ -11,7 +11,7 @@
 
 - 📫 Contato **paulo.prates01@hotmail.com**
 
-- 📄 CV [https://docs.google.com/document/d/1jGE-MKoOWPtoEorlfWU_0MHR-P95H4MN/edit?usp=sharing&ouid=100722193562453335378&rtpof=true&sd=true](https://docs.google.com/document/d/1jGE-MKoOWPtoEorlfWU_0MHR-P95H4MN/edit?usp=sharing&ouid=100722193562453335378&rtpof=true&sd=true)
+- 📄 [CV](https://docs.google.com/document/d/1jGE-MKoOWPtoEorlfWU_0MHR-P95H4MN/edit?usp=sharing&ouid=100722193562453335378&rtpof=true&sd=true)
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
