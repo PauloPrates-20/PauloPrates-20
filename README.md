@@ -7,7 +7,7 @@
 
 - 👯 Busco colaborar com aplicações baseadas em web e projetos de IoT.
 
-- 💬 Pergunte me sobre ** NextJS, NodeJS, Javascript, HTML, CSS, Arduino **
+- 💬 Pergunte me sobre **NextJS, NodeJS, Javascript, HTML, CSS, Arduino**
 
 - 📫 Contato **paulo.prates01@hotmail.com**
 
