@@ -25,7 +25,7 @@
 
 - 👯 I’m looking to collaborate on Web based applications and IoT projects
 
-- 💬 Ask me about ** NextJS, NodeJS, Javascript, HTML, CSS, Arduino **
+- 💬 Ask me about **NextJS, NodeJS, Javascript, HTML, CSS, Arduino**
 
 - 📫 How to reach me **paulo.prates01@hotmail.com**
 
